@@ -6,12 +6,14 @@ Working on it ⚒️
 
 - [Videos and Lectures](#videos-and-lectures)
 - [Papers](#papers)
-- [Tutorials](#tutorials)
 - [Datasets](#datasets)
+- [Tools](#tools)
 - [Miscellaneous](#miscellaneous)
 
 ## Videos and Lectures
 
+- [2024 Nobel Prize lectures in chemistry | David Baker, Demis Hassabis and John Jumper](https://www.youtube.com/watch?v=HnT1VWzdFWc)
+- [RosettaCommons Lectures](https://www.youtube.com/@RosettaCommons/videos)
 
 ## Papers
 - [Chai-1: Decoding the molecular interactions of life](https://www.biorxiv.org/content/10.1101/2024.10.10.615955v1)
@@ -72,12 +74,15 @@ Working on it ⚒️
 - [Challenges in protein-folding simulations](https://www.nature.com/articles/nphys1713) 
 
 
-## Tutorials
-
-
 ## Datasets
+
+
+## Tools
 
 
 ## Miscellaneous
 - [The Baker Lab Podcast](https://www.bakerlab.org/podcast/)
-
+- [Nature Portfolio Collection | Nobel Prize in Chemistry 2024](https://www.nature.com/collections/edjcfdihdi)
+- [AIDrugX at NeurIPS24](https://sites.google.com/view/newmodality-aidrug/home)
+- [Machine Learning in Structural Biology (Workshop at NeurIPS24)](https://www.mlsb.io/)
+- [Boston Protein Design and Modeling Club](https://www.youtube.com/@bpdmc)
